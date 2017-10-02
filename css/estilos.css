@@ -1,6 +1,6 @@
 body{
 background-color: #ffff00 ;
-background:url(imagenescss/estrellamuerte.jpg);
+background:url(imagenescss/fondo.jpg);
 background-repeat: no-repeat; /*para que no se repita*/
 background-size: cover; /*para que cubra todo*/
 
